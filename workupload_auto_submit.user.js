@@ -6,7 +6,7 @@
 // @run-at      document-idle
 // @version     1.0.0
 // @author      mariomadproductions
-// @description Auto-click Workupload's "upload" button when it becomes active
+// @description Auto-click Workupload.com's "upload" button when it becomes active
 // ==/UserScript==
 
 const uploadBtn = document.getElementById('uploadBtn');
